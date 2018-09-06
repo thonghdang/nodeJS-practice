@@ -1,5 +1,5 @@
 # nodeJS_practice
-This repository is used to store my learning Node JS programs.
+This repository stores my learning for Node JS.
 
 Some tutorial videos can be found at these links: 
 
